@@ -9,7 +9,7 @@
 
 ## Why This Exists
 
-AI tutors powered by LLMs (like Khan Academy's Khanmigo) face a unique evaluation challenge: a response can be *factually correct* but *pedagogically harmful* — for example, giving away the answer instead of scaffolding the student toward it. Standard NLP metrics (BLEU, ROUGE) miss this entirely.
+AI tutors powered by LLMs face a unique evaluation challenge: a response can be *factually correct* but *pedagogically harmful* — for example, giving away the answer instead of scaffolding the student toward it. Standard NLP metrics (BLEU, ROUGE) miss this entirely.
 
 **edututor-eval** provides a structured framework for evaluating AI tutor responses across the dimensions that actually matter in education:
 
@@ -24,7 +24,7 @@ AI tutors powered by LLMs (like Khan Academy's Khanmigo) face a unique evaluatio
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/edututor-eval.git
+git clone https://github.com/sanya2025/edututor-eval.git
 cd edututor-eval
 pip install -e .
 ```
@@ -154,6 +154,6 @@ MIT
   title={edututor-eval: An Evaluation Framework for AI Tutoring Responses},
   author={Sanja Damjanovic},
   year={2026},
-  url={https://github.com/yourusername/edututor-eval}
+  url={https://github.com/sanya2025/edututor-eval}
 }
 ```
