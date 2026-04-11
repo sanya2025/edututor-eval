@@ -1,0 +1,77 @@
+response_id,prompt_style,student_question,tutor_response_preview,score_correctness,score_pedagogical_alignment,score_curriculum_grounding,score_engagement,score_safety,human_overall,notes
+gsm_000_direct_answer,direct_answer,Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning an...,Janet makes $18 every day at the farmers' market....,,,,,,,
+gsm_000_step_by_step,step_by_step,Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning an...,"To find out how much Janet makes every day at the farmers' market from selling her duck eggs, we can break the problem d...",,,,,,,
+gsm_000_socratic,socratic,Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning an...,"Great job setting up the problem! Now, let's think about how many eggs Janet has left after she eats and bakes with some...",,,,,,,
+gsm_001_direct_answer,direct_answer,A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bol...,3 bolts....,,,,,,,
+gsm_001_step_by_step,step_by_step,A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bol...,"To solve the problem, we need to determine the total amount of fiber needed for the robe, which consists of blue and whi...",,,,,,,
+gsm_001_socratic,socratic,A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bol...,"That's a great question! Let's break it down together. 
+
+First, how many bolts of white fiber do you need for one robe? ...",,,,,,,
+gsm_002_direct_answer,direct_answer,"Josh decides to try flipping a house.  He buys a house for $80,000 and then puts...","Josh made a profit of $70,000....",,,,,,,
+gsm_002_step_by_step,step_by_step,"Josh decides to try flipping a house.  He buys a house for $80,000 and then puts...","To find out how much profit Josh made from flipping the house, we need to follow these steps:
+
+### Step 1: Calculate the...",,,,,,,
+gsm_002_socratic,socratic,"Josh decides to try flipping a house.  He buys a house for $80,000 and then puts...","That's a great question! Let's break it down together. 
+
+First, can you figure out what the total cost was for Josh to b...",,,,,,,
+gsm_003_direct_answer,direct_answer,James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  ...,540 meters....,,,,,,,
+gsm_003_step_by_step,step_by_step,James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  ...,"To find out how many total meters James runs in a week, we can break the problem down into smaller steps. 
+
+### Step 1: ...",,,,,,,
+gsm_003_socratic,socratic,James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  ...,"Great job setting up the problem! To find the total meters James runs in a week, can you think about how many sprints he...",,,,,,,
+gsm_004_direct_answer,direct_answer,"Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, co...",Wendi needs to give her chickens 30 cups of feed in the final meal of the day....,,,,,,,
+gsm_004_step_by_step,step_by_step,"Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, co...","To solve the problem, we need to determine how many cups of feed Wendi needs to give her chickens in the final meal of t...",,,,,,,
+gsm_004_socratic,socratic,"Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, co...","Great question! Let's break this down together. 
+
+First, can you calculate the total amount of feed Wendi gives to her c...",,,,,,,
+gsm_005_direct_answer,direct_answer,Kylar went to the store to buy glasses for his new apartment. One glass costs $5...,Kylar needs to pay $72....,,,,,,,
+gsm_005_step_by_step,step_by_step,Kylar went to the store to buy glasses for his new apartment. One glass costs $5...,"To find out how much Kylar needs to pay for 16 glasses, we need to break down the cost based on the pricing structure pr...",,,,,,,
+gsm_005_socratic,socratic,Kylar went to the store to buy glasses for his new apartment. One glass costs $5...,"That's a great problem, Kylar! Let's break it down together. 
+
+First, can you figure out how many glasses will be at the...",,,,,,,
+gsm_006_direct_answer,direct_answer,Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many s...,"Toulouse, Charleston, and Seattle have 104 sheep together....",,,,,,,
+gsm_006_step_by_step,step_by_step,Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many s...,"To solve the problem, we will define the number of sheep each city has based on the information provided. Let's break it...",,,,,,,
+gsm_006_socratic,socratic,Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many s...,"Great job setting up the problem! Let's break it down step by step. 
+
+First, can you figure out how many sheep Charlesto...",,,,,,,
+gsm_007_direct_answer,direct_answer,"Carla is downloading a 200 GB file. Normally she can download 2 GB/minute, but 4...",It takes 100 minutes to download the file....,,,,,,,
+gsm_007_step_by_step,step_by_step,"Carla is downloading a 200 GB file. Normally she can download 2 GB/minute, but 4...","To solve this problem, we need to break it down into steps and calculate the total time it takes for Carla to download t...",,,,,,,
+gsm_007_socratic,socratic,"Carla is downloading a 200 GB file. Normally she can download 2 GB/minute, but 4...","Great job setting up the problem! Let's break it down a bit. 
+
+First, can you figure out how much of the file Carla has ...",,,,,,,
+gsm_008_direct_answer,direct_answer,John drives for 3 hours at a speed of 60 mph and then turns around because he re...,John is 30 miles from home at the end of those 4 hours....,,,,,,,
+gsm_008_step_by_step,step_by_step,John drives for 3 hours at a speed of 60 mph and then turns around because he re...,"To solve this problem, we will break it down into several steps to find out how far John is from home at the end of the ...",,,,,,,
+gsm_008_socratic,socratic,John drives for 3 hours at a speed of 60 mph and then turns around because he re...,"Great question! Let's break this down step by step. 
+
+First, can you calculate how far John drove away from home during ...",,,,,,,
+gsm_009_direct_answer,direct_answer,Eliza's rate per hour for the first 40 hours she works each week is $10. She als...,Eliza's earnings for this week are $460....,,,,,,,
+gsm_009_step_by_step,step_by_step,Eliza's rate per hour for the first 40 hours she works each week is $10. She als...,"To calculate Eliza's earnings for the week, we need to break down her hours into regular hours and overtime hours, and t...",,,,,,,
+gsm_009_socratic,socratic,Eliza's rate per hour for the first 40 hours she works each week is $10. She als...,"Great job on getting started with this problem! Let's break it down together. 
+
+First, can you figure out how much Eliza...",,,,,,,
+gsm_010_direct_answer,direct_answer,A new program had 60 downloads in the first month. The number of downloads in th...,The total number of downloads over the three months is 150....,,,,,,,
+gsm_010_step_by_step,step_by_step,A new program had 60 downloads in the first month. The number of downloads in th...,"Let's solve the problem step by step.
+
+### Step 1: Determine the downloads in the first month.
+We are given that the num...",,,,,,,
+gsm_010_socratic,socratic,A new program had 60 downloads in the first month. The number of downloads in th...,"You're doing great! Let's break this down step by step. 
+
+First, can you calculate how many downloads there were in the ...",,,,,,,
+gsm_011_direct_answer,direct_answer,Toula went to the bakery and bought various types of pastries. She bought 3 doze...,"The total cost was $1,064....",,,,,,,
+gsm_011_step_by_step,step_by_step,Toula went to the bakery and bought various types of pastries. She bought 3 doze...,"To find the total cost of the pastries Toula bought, we will calculate the cost of each type of pastry separately and th...",,,,,,,
+gsm_011_socratic,socratic,Toula went to the bakery and bought various types of pastries. She bought 3 doze...,"Great job on setting up the problem! Now, can you think about how you might calculate the total cost for each type of pa...",,,,,,,
+gsm_012_direct_answer,direct_answer,Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w...,It will take 5 years before Carlos starts earning money on the lemon tree....,,,,,,,
+gsm_012_step_by_step,step_by_step,Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w...,"To determine how many years it will take for Carlos to start earning money from his lemon tree, we need to calculate his...",,,,,,,
+gsm_012_socratic,socratic,Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w...,"That's a great question! Let's break it down together. 
+
+First, can you calculate how much money Carlos makes from selli...",,,,,,,
+gsm_013_direct_answer,direct_answer,Melanie is a door-to-door saleswoman. She sold a third of her vacuum cleaners at...,Melanie started with 21 vacuum cleaners....,,,,,,,
+gsm_014_direct_answer,direct_answer,"In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the ...",55%...,,,,,,,
+gsm_015_direct_answer,direct_answer,A merchant wants to make a choice of purchase between 2 purchase plans: jewelry ...,"The profit from the jewelry would be $125, and the profit from the electronic gadgets would be $96. Therefore, the merch...",,,,,,,
+gsm_037_direct_answer,direct_answer,John plans to sell all his toys and use the money to buy video games. He has 13 ...,0...,,,,,,,
+gsm_044_direct_answer,direct_answer,"Charlie wants to sell beeswax candles.  For every pound of beeswax, he can make ...",Charlie's net profit is $10.00....,,,,,,,
+gsm_046_direct_answer,direct_answer,Candice put 80 post-it notes in her purse before she headed out to her job at th...,The package contained 23 Post-it notes....,,,,,,,
+gsm_047_direct_answer,direct_answer,John buys twice as many red ties as blue ties.  The red ties cost 50% more than ...,John spent $400 on ties....,,,,,,,
+gsm_063_direct_answer,direct_answer,Aleena subscribed to a streaming service that charges her $140 per month. If the...,"$1,540...",,,,,,,
+gsm_064_direct_answer,direct_answer,"Sophia is thinking of taking a road trip in her car, and would like to know how ...",300 miles....,,,,,,,
+gsm_065_direct_answer,direct_answer,Jim spends 2 hours watching TV and then decides to go to bed and reads for half ...,48 hours....,,,,,,,

@@ -1,0 +1,4563 @@
+[
+  {
+    "response_id": "syn_0000",
+    "evaluator": "rule_based",
+    "overall_score": 3.88,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.524078947368421,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0001",
+    "evaluator": "rule_based",
+    "overall_score": 4.09,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.3187499999999996,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0002",
+    "evaluator": "rule_based",
+    "overall_score": 3.89,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.199358108108106,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0003",
+    "evaluator": "rule_based",
+    "overall_score": 4.3,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0004",
+    "evaluator": "rule_based",
+    "overall_score": 4.39,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.806666666666665,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0005",
+    "evaluator": "rule_based",
+    "overall_score": 4.65,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0006",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0007",
+    "evaluator": "rule_based",
+    "overall_score": 3.62,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [
+      "potentially_discouraging"
+    ],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0008",
+    "evaluator": "rule_based",
+    "overall_score": 4.05,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0009",
+    "evaluator": "rule_based",
+    "overall_score": 3.9,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [
+      "meta_ai_reference"
+    ],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0010",
+    "evaluator": "rule_based",
+    "overall_score": 4.45,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0011",
+    "evaluator": "rule_based",
+    "overall_score": 3.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0012",
+    "evaluator": "rule_based",
+    "overall_score": 3.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0013",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0014",
+    "evaluator": "rule_based",
+    "overall_score": 3.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0015",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0016",
+    "evaluator": "rule_based",
+    "overall_score": 3.89,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.199358108108106,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0017",
+    "evaluator": "rule_based",
+    "overall_score": 3.62,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [
+      "potentially_discouraging"
+    ],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0018",
+    "evaluator": "rule_based",
+    "overall_score": 4.05,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0019",
+    "evaluator": "rule_based",
+    "overall_score": 3.9,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [
+      "meta_ai_reference"
+    ],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0020",
+    "evaluator": "rule_based",
+    "overall_score": 3.85,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0021",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.5807407407407386,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0022",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0023",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0024",
+    "evaluator": "rule_based",
+    "overall_score": 4.3,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0025",
+    "evaluator": "rule_based",
+    "overall_score": 4.3,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0026",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0027",
+    "evaluator": "rule_based",
+    "overall_score": 3.85,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0028",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.9916071428571414,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0029",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0030",
+    "evaluator": "rule_based",
+    "overall_score": 3.69,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.5681818181818183,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0031",
+    "evaluator": "rule_based",
+    "overall_score": 4.3,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0032",
+    "evaluator": "rule_based",
+    "overall_score": 4.2,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.8684615384615384,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0033",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0034",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0035",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0036",
+    "evaluator": "rule_based",
+    "overall_score": 3.85,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0037",
+    "evaluator": "rule_based",
+    "overall_score": 3.85,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.017777777777777,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0038",
+    "evaluator": "rule_based",
+    "overall_score": 3.77,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0039",
+    "evaluator": "rule_based",
+    "overall_score": 4.05,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0040",
+    "evaluator": "rule_based",
+    "overall_score": 2.95,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 2.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 1.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [
+      "response_too_short",
+      "answer_leaked"
+    ],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0041",
+    "evaluator": "rule_based",
+    "overall_score": 3.85,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0042",
+    "evaluator": "rule_based",
+    "overall_score": 4.05,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0043",
+    "evaluator": "rule_based",
+    "overall_score": 3.96,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.57423076923077,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0044",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0045",
+    "evaluator": "rule_based",
+    "overall_score": 4.45,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0046",
+    "evaluator": "rule_based",
+    "overall_score": 4.65,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0047",
+    "evaluator": "rule_based",
+    "overall_score": 4.09,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.306666666666665,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0048",
+    "evaluator": "rule_based",
+    "overall_score": 4.22,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0049",
+    "evaluator": "rule_based",
+    "overall_score": 4.42,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 4.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for correctness"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for pedagogical_alignment"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for curriculum_grounding"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.5,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for engagement"
+      },
+      {
+        "dimension": "safety",
+        "score": 5.0,
+        "confidence": 0.6,
+        "reasoning": "Rule-based heuristic for safety"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "rule_based_v1"
+    }
+  },
+  {
+    "response_id": "syn_0000",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0001",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.527542372881356
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0002",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5540540540540541
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0003",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.07,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5855263157894737
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0004",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5375
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0005",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5648148148148148
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0006",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5714285714285714
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0007",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.05,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.86,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.47115384615384615
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0008",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5540540540540541
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0009",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.05,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.86,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.475
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0010",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5740740740740741
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0011",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0012",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0013",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.625
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0014",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.83,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5681818181818182
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0015",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0016",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5540540540540541
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0017",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.05,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.86,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4807692307692308
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0018",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.09,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.07,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.8,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6682692307692307
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0019",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.05,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.86,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.48125
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0020",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5540540540540541
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0021",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.1,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.82,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6111111111111112
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0022",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.527542372881356
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0023",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.527542372881356
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0024",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5550847457627118
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0025",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5568181818181818
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0026",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.6299019607843137
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0027",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5808823529411765
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0028",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5714285714285714
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0029",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0030",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.98,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.83,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5681818181818182
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0031",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5723684210526315
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0032",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.625
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0033",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.625
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0034",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5375
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0035",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.15,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.89,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5296052631578947
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0036",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5540540540540541
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0037",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.1,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.82,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6064814814814815
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0038",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.01,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5714285714285714
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0039",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.1,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.82,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6111111111111112
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0040",
+    "evaluator": "learned_fallback",
+    "overall_score": 2.64,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 2.74,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 2.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.87,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 2.8,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 2.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.4375
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0041",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.11,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.88,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5808823529411765
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0042",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.09,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.81,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6296296296296297
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0043",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.09,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.06,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.81,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.2,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6442307692307693
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0044",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.6299019607843137
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0045",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5648148148148148
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0046",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.55,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.26,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 4.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 3.08,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.9,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.1,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.5625
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0047",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5375
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0048",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.29,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.16,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.7,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.96,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.4,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.6299019607843137
+      ]
+    }
+  },
+  {
+    "response_id": "syn_0049",
+    "evaluator": "learned_fallback",
+    "overall_score": 3.27,
+    "dimension_scores": [
+      {
+        "dimension": "correctness",
+        "score": 3.25,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "pedagogical_alignment",
+        "score": 3.6,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "curriculum_grounding",
+        "score": 2.99,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "engagement",
+        "score": 3.3,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      },
+      {
+        "dimension": "safety",
+        "score": 3.0,
+        "confidence": 0.5,
+        "reasoning": "Feature-based fallback (no trained model)"
+      }
+    ],
+    "flags": [],
+    "metadata": {
+      "method": "feature_based_fallback",
+      "features": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.5375
+      ]
+    }
+  }
+]

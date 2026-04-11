@@ -1,0 +1,17 @@
+pydantic>=2.5
+pyyaml>=6.0
+pandas>=2.1
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.11
+openai>=1.6
+datasets
+python-dotenv
+
+
+# Optional: LLM-as-judge
+# openai>=1.6
+# anthropic>=0.18
+# Optional: learned evaluator
+# torch>=2.1
+# transformers>=4.36
