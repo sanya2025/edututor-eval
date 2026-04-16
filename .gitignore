@@ -7,3 +7,5 @@ build/
 *.egg
 .env
 .venv/
+test_openai.py
+tutorial.md
