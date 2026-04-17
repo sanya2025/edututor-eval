@@ -104,7 +104,6 @@ edututor-eval/
 ├── results/
 ├── tests/
 │   └── test_metrics.py
-├── tutorial.md              # Full walkthrough + interview discussion
 ├── setup.py
 ├── requirements.txt
 └── README.md
@@ -134,14 +133,6 @@ textstat >= 0.7
 
 Optional (for LLM-as-judge): `openai >= 1.6` or `anthropic >= 0.18`
 
-## Tutorial
-
-See **[tutorial.md](tutorial.md)** for a complete walkthrough covering:
-
-- Building evaluation datasets for AI tutors
-- Implementing each scoring strategy
-- Comparing evaluator agreement with human labels
-- Practical lessons for production evaluation systems
 
 ## License
 
