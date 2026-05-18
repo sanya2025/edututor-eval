@@ -9,3 +9,5 @@ build/
 .venv/
 test_openai.py
 tutorial.md
+.DS_Store
+results/

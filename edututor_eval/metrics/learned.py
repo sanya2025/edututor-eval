@@ -65,9 +65,9 @@ def extract_pedagogical_features(text: str) -> list[float]:
     features = []
 
     # Scaffolding language present
-    scaffolding = bool(re.search(
-        r"(?i)(what do you think|let'?s think|try to|consider|hint)", text
-    ))
+    scaffolding = bool(
+        re.search(r"(?i)(what do you think|let'?s think|try to|consider|hint)", text)
+    )
     features.append(1.0 if scaffolding else 0.0)
 
     # Asks the student a question
@@ -78,15 +78,15 @@ def extract_pedagogical_features(text: str) -> list[float]:
     features.append(min(1.0, step_count / 3.0))
 
     # Encouragement present
-    encouragement = bool(re.search(
-        r"(?i)(great|good|nice|excellent) (question|thinking|try|effort)", text
-    ))
+    encouragement = bool(
+        re.search(
+            r"(?i)(great|good|nice|excellent) (question|thinking|try|effort)", text
+        )
+    )
     features.append(1.0 if encouragement else 0.0)
 
     # Answer leaked (negative signal)
-    leaked = bool(re.search(
-        r"(?i)^(the answer is|the solution is|it equals)", text
-    ))
+    leaked = bool(re.search(r"(?i)^(the answer is|the solution is|it equals)", text))
     features.append(1.0 if leaked else 0.0)
 
     # Response length bucket (0=short, 0.5=medium, 1.0=long)
@@ -136,12 +136,16 @@ class LearnedEvaluator:
             from transformers import AutoTokenizer, AutoModel
 
             self._tokenizer = AutoTokenizer.from_pretrained(self.model_path)
-            # In a real implementation, this would load the full
-            # QualityScorer model. Here we show the loading pattern.
+            self._model = AutoModelForSequenceClassification.from_pretrained(
+                self.model_path
+            ).to(self.device)
+            self._model.eval()
             logger.info("Loaded model from %s", self.model_path)
+
         except Exception as e:
             logger.warning("Failed to load model: %s. Using fallback.", e)
             self._model = None
+            self._tokenizer = None
 
     def evaluate(self, response: TutorResponse) -> EvalResult:
         """Evaluate using either the trained model or feature-based fallback."""

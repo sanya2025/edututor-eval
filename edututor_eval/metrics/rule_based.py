@@ -22,7 +22,6 @@ from dataclasses import dataclass
 
 from edututor_eval.datatypes import TutorResponse, EvalResult, DimensionScore
 
-
 # --- Grade level → approximate target reading level (Flesch-Kincaid) ---
 GRADE_READING_TARGETS = {
     "K-2": (1.0, 3.0),
@@ -33,7 +32,7 @@ GRADE_READING_TARGETS = {
 
 # Patterns that suggest the tutor is giving away the answer directly
 ANSWER_LEAK_PATTERNS = [
-    r"(?i)^(the answer is|the solution is|it equals|that equals)",
+    r"(?i)^(the answer is|the solution is|it equals|that equals)\b",
     r"(?i)^(simply|just) (put|enter|type|write)\b",
     r"(?i)^(it'?s|that'?s|the answer'?s)\s+\d",
     r"(?i)^(you get|we get|this gives us)\s+\d",
@@ -83,10 +82,12 @@ class RuleBasedEvaluator:
         flags.extend(pedagogy_flags)
 
         # --- Curriculum grounding (reading level appropriateness) ---
-        grade_val = response.grade_level.value if hasattr(response.grade_level, 'value') else str(response.grade_level)
-        curriculum_score = self._score_curriculum_grounding(
-            text, grade_val
+        grade_val = (
+            response.grade_level.value
+            if hasattr(response.grade_level, "value")
+            else str(response.grade_level)
         )
+        curriculum_score = self._score_curriculum_grounding(text, grade_val)
         scores["curriculum_grounding"] = curriculum_score
 
         # --- Engagement ---
@@ -142,13 +143,17 @@ class RuleBasedEvaluator:
             flags.append("response_too_short")
 
         # Excessive hedging suggests uncertainty
-        hedge_words = len(re.findall(r"(?i)\b(maybe|perhaps|might|possibly|i think)\b", text))
+        hedge_words = len(
+            re.findall(r"(?i)\b(maybe|perhaps|might|possibly|i think)\b", text)
+        )
         if hedge_words >= 3:
             score -= 0.5
             flags.append("excessive_hedging")
 
         # Self-contradiction detection (simple: "is X" then "is not X")
-        if re.search(r"(?i)(is|equals)\s+(\d+).*(?:is not|doesn't equal|isn't)\s+\2", text):
+        if re.search(
+            r"(?i)(is|equals)\s+(\d+).*(?:is not|doesn't equal|isn't)\s+\2", text
+        ):
             score -= 2.0
             flags.append("potential_contradiction")
 
@@ -172,9 +177,7 @@ class RuleBasedEvaluator:
                 break
 
         # Reward: scaffolding language
-        scaffolding_count = sum(
-            1 for p in SCAFFOLDING_PATTERNS if re.search(p, text)
-        )
+        scaffolding_count = sum(1 for p in SCAFFOLDING_PATTERNS if re.search(p, text))
         score += min(scaffolding_count * 0.5, 1.5)
 
         # Reward: asking the student a question back (Socratic method)
@@ -188,7 +191,9 @@ class RuleBasedEvaluator:
             flags.append("response_too_long")
 
         # Reward: step-by-step structure
-        step_markers = len(re.findall(r"(?i)(step \d|first|second|third|next|then|finally)", text))
+        step_markers = len(
+            re.findall(r"(?i)(step \d|first|second|third|next|then|finally)", text)
+        )
         if step_markers >= 2:
             score += 0.5
 
@@ -239,12 +244,16 @@ class RuleBasedEvaluator:
         score = 5.0
 
         # Discouraging language
-        if re.search(r"(?i)(you should know this|this is (easy|simple|basic)|obviously)", text):
+        if re.search(
+            r"(?i)(you should know this|this is (easy|simple|basic)|obviously)", text
+        ):
             score -= 1.0
             flags.append("potentially_discouraging")
 
         # Off-topic detection (very basic)
-        if re.search(r"(?i)(as an ai|i'm a language model|i cannot|i don't have feelings)", text):
+        if re.search(
+            r"(?i)(as an ai|i'm a language model|i cannot|i don't have feelings)", text
+        ):
             score -= 0.5
             flags.append("meta_ai_reference")
 
@@ -281,5 +290,7 @@ class RuleBasedEvaluator:
         n_sentences = max(1, len(sentences))
         n_words = max(1, len(words))
 
-        grade = 0.39 * (n_words / n_sentences) + 11.8 * (total_syllables / n_words) - 15.59
+        grade = (
+            0.39 * (n_words / n_sentences) + 11.8 * (total_syllables / n_words) - 15.59
+        )
         return max(0.0, grade)

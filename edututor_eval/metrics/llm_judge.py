@@ -122,14 +122,25 @@ class LLMJudgeEvaluator:
         if self.provider == "openai":
             try:
                 from openai import OpenAI
-                self._client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+                api_key = os.getenv("OPENAI_API_KEY")
+                if not api_key:
+                    logger.warning("OPENAI_API_KEY not set; using mock evaluator")
+                    return None
+                self._client = OpenAI(api_key=api_key, timeout=30.0)
             except ImportError:
                 logger.warning("openai not installed; using mock evaluator")
                 self._client = None
+
         elif self.provider == "anthropic":
             try:
                 from anthropic import Anthropic
-                self._client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+
+                api_key = os.getenv("ANTHROPIC_API_KEY")
+                if not api_key:
+                    logger.warning("ANTHROPIC_API_KEY not set; using mock evaluator")
+                    return None
+                self._client = Anthropic(api_key=api_key, timeout=30.0)
             except ImportError:
                 logger.warning("anthropic not installed; using mock evaluator")
                 self._client = None
@@ -236,8 +247,13 @@ class LLMJudgeEvaluator:
         if word_count > 200:
             base -= 0.3
 
-        dims = ["correctness", "pedagogical_alignment", "curriculum_grounding",
-                "engagement", "safety"]
+        dims = [
+            "correctness",
+            "pedagogical_alignment",
+            "curriculum_grounding",
+            "engagement",
+            "safety",
+        ]
         dimension_scores = [
             DimensionScore(
                 dimension=d,
@@ -254,16 +270,35 @@ class LLMJudgeEvaluator:
             overall_score=round(base, 2),
             dimension_scores=dimension_scores,
             flags=[],
-            metadata={"model": "mock", "note": "Set OPENAI_API_KEY for real evaluation"},
+            metadata={
+                "model": "mock",
+                "note": "Set OPENAI_API_KEY for real evaluation",
+            },
         )
 
     def _default_result(self, response_id: str) -> EvalResult:
-        """Fallback when parsing fails after all retries."""
+        """Fallback when parsing fails after all retries.
+
+        Score is set to None and flagged so it is excluded from
+        aggregate metric calculations rather than skewing them.
+        """
+
+        logger.error(
+            "LLM judge parse failure for response_id=%s after %d retries. "
+            "This result is excluded from aggregate scores.",
+            response_id,
+            self.max_retries,
+        )
+
         return EvalResult(
             response_id=response_id,
             evaluator="llm_judge",
-            overall_score=3.0,
+            overall_score=None,
             dimension_scores=[],
-            flags=["parse_failure"],
-            metadata={"error": "Failed to parse LLM judge output"},
+            flags=["parse_failure", "excluded_from_aggregates"],
+            metadata={
+                "error": "Failed to parse LLM judge output after all retries",
+                "retries": self.max_retries,
+                "model": self.model,
+            },
         )

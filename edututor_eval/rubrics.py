@@ -94,11 +94,25 @@ class Rubric:
 def load_rubric(path: str | Path) -> Rubric:
     """Load a rubric from a YAML file."""
     path = Path(path)
+    if not path.exists():
+        raise FileNotFoundError(f"Rubric file not found: {path}")
     with open(path) as f:
         data: dict[str, Any] = yaml.safe_load(f)
 
+    if not data:
+        raise ValueError(f"Rubric file is empty: {path}")
+
     dimensions = []
-    for dim_data in data.get("dimensions", []):
+    for i, dim_data in enumerate(data.get("dimensions", [])):
+        if "name" not in dim_data:
+            raise ValueError(f"Dimension {i} missing required field 'name' in {path}")
+        weight = dim_data.get("weight", 1.0)
+
+        if weight < 0:
+            raise ValueError(
+                f"Dimension '{dim_data['name']}' has negative weight: {weight}"
+            )
+
         score_levels = [
             ScoreLevel(
                 level=sl["level"],
@@ -115,6 +129,12 @@ def load_rubric(path: str | Path) -> Rubric:
                 score_levels=score_levels,
             )
         )
+    if not dimensions:
+        raise ValueError(f"Rubric must have at least one dimension: {path}")
+
+    total_weight = sum(d.weight for d in dimensions)
+    if total_weight == 0:
+        raise ValueError(f"Rubric dimensions sum to zero weight in {path}")
 
     return Rubric(
         name=data.get("name", "Unnamed"),

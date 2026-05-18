@@ -1,20 +1,20 @@
 {
   "rule_based": {
-    "exact_agreement": 0.0,
-    "adjacent_agreement": 0.46,
-    "pearson_r": 0.7758,
+    "exact_agreement": 0.008,
+    "adjacent_agreement": 0.438,
+    "pearson_r": 0.7911,
     "pearson_p": 0.0,
-    "spearman_r": 0.7766,
+    "spearman_r": 0.8189,
     "spearman_p": 0.0,
-    "mean_absolute_error": 0.7334
+    "mean_absolute_error": 0.7682
   },
   "learned": {
-    "exact_agreement": 0.0,
-    "adjacent_agreement": 0.42,
-    "pearson_r": 0.8086,
+    "exact_agreement": 0.026,
+    "adjacent_agreement": 0.364,
+    "pearson_r": 0.7955,
     "pearson_p": 0.0,
-    "spearman_r": 0.882,
+    "spearman_r": 0.8648,
     "spearman_p": 0.0,
-    "mean_absolute_error": 0.7036
+    "mean_absolute_error": 0.7716
   }
 }
